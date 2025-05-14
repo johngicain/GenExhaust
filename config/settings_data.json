@@ -13,7 +13,7 @@
     "logo_width": 160,
     "type_header_font": "chivo_n4",
     "heading_scale": 100,
-    "type_body_font": "assistant_n4",
+    "type_body_font": "mono",
     "body_scale": 100,
     "page_width": 1200,
     "spacing_sections": 0,
@@ -212,6 +212,17 @@
       "scheme-80fa94ae-391f-4917-acf2-59ce5e832a37": {
         "settings": {
           "background": "#4c493a",
+          "background_gradient": "",
+          "text": "#ffffff",
+          "button": "#ffffff",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#ffffff",
+          "shadow": "#121212"
+        }
+      },
+      "scheme-bb7cb39c-1c51-479c-b44c-78797d32eff0": {
+        "settings": {
+          "background": "#71797e",
           "background_gradient": "",
           "text": "#ffffff",
           "button": "#ffffff",

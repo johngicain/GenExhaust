@@ -13,7 +13,7 @@
     "logo_width": 160,
     "type_header_font": "chivo_n4",
     "heading_scale": 100,
-    "type_body_font": "mono",
+    "type_body_font": "sans-serif",
     "body_scale": 100,
     "page_width": 1200,
     "spacing_sections": 0,

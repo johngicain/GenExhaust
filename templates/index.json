@@ -112,6 +112,46 @@
         "padding_bottom": 60
       }
     },
+    "image_banner_qCYAyA": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_8Ry3Jd": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>ESSENTIALS </strong>FOR THE <strong>PREPARED</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "buttons_th9EA4": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop More",
+            "button_link_1": "shopify://collections/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_8Ry3Jd",
+        "buttons_th9EA4"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-0222a42b-4aae-4171-b056-7a1ae7529273",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -241,6 +281,7 @@
   "order": [
     "image_banner",
     "multicolumn_zbh7V7",
+    "image_banner_qCYAyA",
     "featured_collection",
     "image_banner_mtd3TT",
     "collection_list_tNQg7h",

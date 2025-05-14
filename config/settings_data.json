@@ -203,7 +203,7 @@
           "background": "#3c6912",
           "background_gradient": "",
           "text": "#ffffff",
-          "button": "#ffffff",
+          "button": "#3c6912",
           "button_label": "#ffffff",
           "secondary_button_label": "#ffffff",
           "shadow": "#121212"

@@ -19,28 +19,29 @@
           "settings": {
             "image": "shopify://shop_images/GenExhaust_-_GE_Logo_White.png",
             "image_width": 150,
+            "text": "<p>Genexhaust.com and 1100 North Innovations, LLC are not affiliated in any way with any generator manufacturer. Any company or product trademarks, service marks, trade names, and/or product names or pictures appearing on this site are the property of their respective owners.</p>",
             "alignment": ""
           }
         },
         "link_list_c6FHr8": {
           "type": "link_list",
           "settings": {
-            "heading": "Support",
-            "menu": "support"
+            "heading": "NAVIGATION",
+            "menu": "information"
           }
         },
         "link_list_rxi6pw": {
           "type": "link_list",
           "settings": {
-            "heading": "Shop",
+            "heading": "SHOP",
             "menu": "shop"
           }
         },
-        "text_RE4h8z": {
-          "type": "text",
+        "link_list_mU4HYR": {
+          "type": "link_list",
           "settings": {
-            "heading": "About",
-            "subtext": "<p>Genexhaust.com and 1100 North Innovations, LLC are not affiliated in any way with any generator manufacturer. Any company or product trademarks, service marks, trade names, and/or product names or pictures appearing on this site are the property of their respective owners. The products listed for sale on this site are not associated with any other company. The use of exhaust extension systems are considered after market modifications, and may void the warranty of your generator.</p>"
+            "heading": "SUPPORT",
+            "menu": "support"
           }
         }
       },
@@ -48,7 +49,7 @@
         "image_kT3Myg",
         "link_list_c6FHr8",
         "link_list_rxi6pw",
-        "text_RE4h8z"
+        "link_list_mU4HYR"
       ],
       "settings": {
         "color_scheme": "scheme-4",

@@ -278,13 +278,21 @@
         "heading_bVkPkK": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>MAGNETIC OIL</strong> DIPSTICK",
+            "heading": "PROUDLY MADE IN THE USA",
             "heading_size": "h0"
+          }
+        },
+        "text_zNXfe7": {
+          "type": "text",
+          "settings": {
+            "text": "American made parts with American made materials on American made machins by American craftsmen",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "heading_bVkPkK"
+        "heading_bVkPkK",
+        "text_zNXfe7"
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {

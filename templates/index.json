@@ -63,6 +63,7 @@
         "column_KhFtYx": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/iconmonstr-link-1.svg",
             "title": "<strong>Custom-Fit Compatibility</strong>",
             "text": "",
             "link_label": "",
@@ -72,6 +73,7 @@
         "column_fbARUf": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/iconmonstr-wrench-11.svg",
             "title": "<strong>Easy Installation Options</strong>",
             "text": "",
             "link_label": "",
@@ -81,6 +83,7 @@
         "column_beUW7w": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/iconmonstr-shield-12.svg",
             "title": "<strong>Enhanced Safety & Ventilation</strong>",
             "text": "",
             "link_label": "",
@@ -90,6 +93,7 @@
         "column_MTgfFB": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/iconmonstr-time-19.svg",
             "title": "<strong>Quick Disconnect & Maintenance Accessories</strong>",
             "text": "",
             "link_label": "",

@@ -311,7 +311,7 @@
       ],
       "name": "Testimonials",
       "settings": {
-        "title": "WHAT DO OUR CUSTOMERS HAVE TO SAY?",
+        "title": "",
         "title_alignment": "center",
         "heading_size": "h1",
         "description": "",

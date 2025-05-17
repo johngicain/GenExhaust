@@ -63,9 +63,9 @@
         "column_KhFtYx": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/iconmonstr-link-1.svg",
-            "title": "<strong>Custom-Fit Compatibility</strong>",
-            "text": "",
+            "image": "shopify://shop_images/icon-link-white.svg",
+            "title": "",
+            "text": "<p><strong>Custom-Fit Compatibility</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -73,9 +73,9 @@
         "column_fbARUf": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/iconmonstr-wrench-11.svg",
-            "title": "<strong>Easy Installation Options</strong>",
-            "text": "",
+            "image": "shopify://shop_images/icon-wrench-white.svg",
+            "title": "",
+            "text": "<p><strong>Easy Installation Options</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -83,9 +83,9 @@
         "column_beUW7w": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/iconmonstr-shield-12.svg",
-            "title": "<strong>Enhanced Safety & Ventilation</strong>",
-            "text": "",
+            "image": "shopify://shop_images/icon-shield-white.svg",
+            "title": "",
+            "text": "<p><strong>Enhanced Safety & Ventilation</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -93,9 +93,9 @@
         "column_MTgfFB": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/iconmonstr-time-19.svg",
-            "title": "<strong>Quick Disconnect & Maintenance Accessories</strong>",
-            "text": "",
+            "image": "shopify://shop_images/icon-clock-quick-white.svg",
+            "title": "",
+            "text": "<p><strong>Quick Disconnect & Maintenance Accessories</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -111,18 +111,19 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "third",
+        "image_width": "sixth",
         "image_ratio": "adapt",
         "button_label": "",
         "button_link": "",
+        "block_layout": "row",
         "columns_desktop": 4,
-        "column_alignment": "center",
+        "column_alignment": "left",
         "background_style": "primary",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-4",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 60,
-        "padding_bottom": 60
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "image_banner_qCYAyA": {

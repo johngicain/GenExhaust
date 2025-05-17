@@ -203,35 +203,6 @@
         "show_text_below": true
       }
     },
-    "image_banner_mtd3TT": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_JG4pyd": {
-          "type": "heading",
-          "settings": {
-            "heading": "ENGINEERED FOR GENERATORS. TRUSTED BY PROS.",
-            "heading_size": "h0"
-          }
-        }
-      },
-      "block_order": [
-        "heading_JG4pyd"
-      ],
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/05_collection_2.jpg",
-        "image_overlay_opacity": 30,
-        "image_height": "small",
-        "image_behavior": "none",
-        "desktop_content_position": "middle-center",
-        "desktop_content_alignment": "center",
-        "show_text_box": false,
-        "color_scheme": "scheme-0222a42b-4aae-4171-b056-7a1ae7529273",
-        "stack_images_on_mobile": true,
-        "mobile_content_alignment": "center",
-        "show_text_below": true
-      }
-    },
     "collection_list_tNQg7h": {
       "type": "collection-list",
       "blocks": {
@@ -269,6 +240,93 @@
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "image_banner_mtd3TT": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_JG4pyd": {
+          "type": "heading",
+          "settings": {
+            "heading": "ENGINEERED FOR GENERATORS. TRUSTED BY PROS.",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_JG4pyd"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/05_collection_2.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-0222a42b-4aae-4171-b056-7a1ae7529273",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "testimonials_4YtzJj": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_EKW7x6": {
+          "type": "testimonial",
+          "settings": {
+            "author": "On our Exhaust Extension",
+            "position": "",
+            "rating": 5,
+            "content": "Installation was quick and easy. The fit was perfect for my generator and it vents exhaust exactly as expected."
+          }
+        },
+        "testimonial_BEAVNV": {
+          "type": "testimonial",
+          "settings": {
+            "author": "On our Magnetic Dipstick",
+            "position": "",
+            "rating": 5,
+            "content": "Perfect fit in my 2022 Honda EU7000IS generator. Seems to be very well made, time will tell on durability. Very pleased!"
+          }
+        },
+        "testimonial_mkFweC": {
+          "type": "testimonial",
+          "settings": {
+            "author": "On our Double Shielded Through Wall Steel tubing",
+            "position": "",
+            "rating": 5,
+            "content": "This is a high quality product that dropped inner wall to outer wall temperatures dramatically - just as described."
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_EKW7x6",
+        "testimonial_BEAVNV",
+        "testimonial_mkFweC"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "title": "WHAT DO OUR CUSTOMERS HAVE TO SAY?",
+        "title_alignment": "center",
+        "heading_size": "h1",
+        "description": "",
+        "description_alignment": "center",
+        "show_description": false,
+        "description_style": "body",
+        "text_alignment": "center",
+        "auto_slide_interval": 5,
+        "show_arrows": false,
+        "show_dots": true,
+        "photo_size": 80,
+        "photo_shape": "circle",
+        "show_photo_border": true,
+        "photo_border_color": "#e5e5e5",
+        "photo_border_width": 2,
         "padding_top": 80,
         "padding_bottom": 80
       }
@@ -318,6 +376,7 @@
     "image_banner_qCYAyA",
     "collection_list_tNQg7h",
     "image_banner_mtd3TT",
+    "testimonials_4YtzJj",
     "image_banner_4KXkaG"
   ]
 }

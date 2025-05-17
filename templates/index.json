@@ -120,8 +120,8 @@
         "column_alignment": "left",
         "background_style": "primary",
         "color_scheme": "scheme-4",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
         "padding_top": 20,
         "padding_bottom": 20
       }
@@ -316,7 +316,6 @@
         "heading_size": "h1",
         "description": "",
         "description_alignment": "center",
-        "show_description": false,
         "description_style": "body",
         "text_alignment": "center",
         "auto_slide_interval": 5,

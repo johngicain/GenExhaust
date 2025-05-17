@@ -15,8 +15,15 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>ENGINEERED FOR LASTING QUALITY</strong>",
+            "heading": "Exhaust Solutions Engineered for Performance & Safety.",
             "heading_size": "hxl"
+          }
+        },
+        "text_M9GHcx": {
+          "type": "text",
+          "settings": {
+            "text": "Reliable, customizable exhaust extensions for any generator setup.",
+            "text_style": "body"
           }
         },
         "button": {
@@ -33,9 +40,11 @@
       },
       "block_order": [
         "heading",
+        "text_M9GHcx",
         "button"
       ],
       "settings": {
+        "image": "shopify://shop_images/05_collection.jpg",
         "image_overlay_opacity": 40,
         "image_height": "medium",
         "image_behavior": "none",

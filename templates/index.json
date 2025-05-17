@@ -131,8 +131,15 @@
         "heading_8Ry3Jd": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>ESSENTIALS </strong>FOR THE <strong>PREPARED</strong>",
+            "heading": "FIND THE RIGHT FIT FOR YOUR GENERATOR.",
             "heading_size": "h1"
+          }
+        },
+        "text_p68ih3": {
+          "type": "text",
+          "settings": {
+            "text": "Shop custom exhaust kits and accessories built for safety and performance.",
+            "text_style": "body"
           }
         },
         "buttons_th9EA4": {
@@ -149,10 +156,12 @@
       },
       "block_order": [
         "heading_8Ry3Jd",
+        "text_p68ih3",
         "buttons_th9EA4"
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
+        "image": "shopify://shop_images/02_banner_ok2-v1.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "image_behavior": "none",

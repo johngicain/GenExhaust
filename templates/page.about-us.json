@@ -213,7 +213,44 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 0,
-        "padding_bottom": 100
+        "padding_bottom": 80
+      }
+    },
+    "image_banner_4wXdJh": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_KyjQMb": {
+          "type": "heading",
+          "settings": {
+            "heading": "PROUDLY MADE IN THE USA",
+            "heading_size": "h0"
+          }
+        },
+        "text_p9Dt33": {
+          "type": "text",
+          "settings": {
+            "text": "American made parts with American made materials on American made machines by American craftsmen",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KyjQMb",
+        "text_p9Dt33"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/04_small_2.png",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-0222a42b-4aae-4171-b056-7a1ae7529273",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
       }
     }
   },
@@ -224,6 +261,7 @@
     "rich_text_PP7WMF",
     "multicolumn_bBdacy",
     "multicolumn_Yimice",
-    "multicolumn_tUCjiP"
+    "multicolumn_tUCjiP",
+    "image_banner_4wXdJh"
   ]
 }

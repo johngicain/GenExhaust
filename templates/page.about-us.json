@@ -114,6 +114,7 @@
         "row_6i8ejp": {
           "type": "row",
           "settings": {
+            "image": "shopify://shop_images/iconmonstr-star-6.svg",
             "caption": "",
             "heading": "Proudly Made in the USA",
             "text": "<p>All of our products are proudly manufactured in the United States using high-grade materials and proven machining techniques. As a small business, we take pride in supporting local jobs and maintaining a hands-on approach in everything we create. It’s not just about selling a product - it’s about delivering dependable solutions our customers can count on.</p>",
@@ -149,7 +150,7 @@
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_image_width": "small",
         "image_layout": "align-left",
         "heading_size": "h2",
@@ -163,6 +164,42 @@
         "padding_top": 40,
         "padding_bottom": 100
       }
+    },
+    "multicolumn_bBdacy": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ymVqMV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/iconmonstr-star-6.svg",
+            "title": "Proudly Made in the USA",
+            "text": "<p>All of our products are proudly manufactured in the United States using high-grade materials and proven machining techniques. As a small business, we take pride in supporting local jobs and maintaining a hands-on approach in everything we create. It’s not just about selling a product - it’s about delivering dependable solutions our customers can count on.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ymVqMV"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "block_layout": "row",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -170,6 +207,7 @@
     "image_banner_tzrcrP",
     "image_with_text_hpiMBD",
     "rich_text_PP7WMF",
-    "multirow_KUDEkH"
+    "multirow_KUDEkH",
+    "multicolumn_bBdacy"
   ]
 }

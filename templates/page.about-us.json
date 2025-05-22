@@ -76,11 +76,79 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
+    },
+    "multirow_bWdwdB": {
+      "type": "multirow",
+      "blocks": {
+        "row_K7NiW8": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_EqLzQ7": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_khjh9g": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_EWCwKB": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_K7NiW8",
+        "row_EqLzQ7",
+        "row_khjh9g",
+        "row_EWCwKB"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "image_layout": "alternate-left",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 100
+      }
     }
   },
   "order": [
     "main",
     "image_banner_tzrcrP",
-    "image_with_text_hpiMBD"
+    "image_with_text_hpiMBD",
+    "multirow_bWdwdB"
   ]
 }

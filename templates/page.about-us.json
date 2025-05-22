@@ -84,8 +84,8 @@
           "type": "row",
           "settings": {
             "caption": "",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "heading": "What Makes Us Different",
+            "text": "<p>At GenExhaust, we believe that reliability begins with precision. Every product we offer - from our custom-fit exhaust extensions to our maintenance accessories - is built with an emphasis on safety, durability, and ease of installation. Whether you're powering a job site, preparing for emergencies, or venting a generator from your RV or outbuilding, we make sure our solutions help you run with confidence.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -94,8 +94,8 @@
           "type": "row",
           "settings": {
             "caption": "",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "heading": "Proudly Made in the USA",
+            "text": "<p>All of our products are proudly manufactured in the United States using high-grade materials and proven machining techniques. As a small business, we take pride in supporting local jobs and maintaining a hands-on approach in everything we create. It’s not just about selling a product - it’s about delivering dependable solutions our customers can count on.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -104,8 +104,8 @@
           "type": "row",
           "settings": {
             "caption": "",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "heading": "Trusted by DIYers and Professionals Alike",
+            "text": "<p>Our customers range from homeowners and campers to contractors and first responders. We’re honored to support people who rely on portable power in critical situations, and we’re committed to making exhaust routing safer and simpler for everyone.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -114,8 +114,8 @@
           "type": "row",
           "settings": {
             "caption": "",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "heading": "Built on Feedback, Backed by Support",
+            "text": "<p>As the business has grown, so has our connection with customers. Many of our product refinements have come directly from user suggestions. We listen, we adjust, and we continue to innovate - because we know the best ideas often come from the field.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -132,7 +132,7 @@
         "image_height": "medium",
         "desktop_image_width": "medium",
         "image_layout": "alternate-left",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "text_style": "body",
         "button_style": "secondary",
         "desktop_content_position": "middle",

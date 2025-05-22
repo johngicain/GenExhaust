@@ -165,6 +165,62 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multirow_KUDEkH": {
+      "type": "multirow",
+      "blocks": {
+        "row_6i8ejp": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Proudly Made in the USA",
+            "text": "<p>All of our products are proudly manufactured in the United States using high-grade materials and proven machining techniques. As a small business, we take pride in supporting local jobs and maintaining a hands-on approach in everything we create. It’s not just about selling a product - it’s about delivering dependable solutions our customers can count on.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_MgAWWe": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Trusted by DIYers and Professionals Alike",
+            "text": "<p>Our customers range from homeowners and campers to contractors and first responders. We’re honored to support people who rely on portable power in critical situations, and we’re committed to making exhaust routing safer and simpler for everyone.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_L4FYmW": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Built on Feedback, Backed by Support",
+            "text": "<p>As the business has grown, so has our connection with customers. Many of our product refinements have come directly from user suggestions. We listen, we adjust, and we continue to innovate - because we know the best ideas often come from the field.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_6i8ejp",
+        "row_MgAWWe",
+        "row_L4FYmW"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "image_layout": "align-left",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -172,6 +228,7 @@
     "image_banner_tzrcrP",
     "image_with_text_hpiMBD",
     "rich_text_PP7WMF",
-    "multicolumn_z4xAck"
+    "multicolumn_z4xAck",
+    "multirow_KUDEkH"
   ]
 }

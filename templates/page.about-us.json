@@ -16,9 +16,39 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "image_banner_tzrcrP": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_BbMEPh": {
+          "type": "heading",
+          "settings": {
+            "heading": "ABOUT US",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_BbMEPh"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/04_collection.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "small",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-left",
+        "desktop_content_alignment": "left",
+        "show_text_box": false,
+        "color_scheme": "scheme-0222a42b-4aae-4171-b056-7a1ae7529273",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "image_banner_tzrcrP"
   ]
 }

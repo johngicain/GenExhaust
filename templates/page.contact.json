@@ -26,10 +26,18 @@
             "heading": "CONTACT US",
             "heading_size": "h0"
           }
+        },
+        "text_6UbBYd": {
+          "type": "text",
+          "settings": {
+            "text": "Have an inquiry? Send us a message.",
+            "text_style": "caption-with-letter-spacing"
+          }
         }
       },
       "block_order": [
-        "heading_ba8EHH"
+        "heading_ba8EHH",
+        "text_6UbBYd"
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {

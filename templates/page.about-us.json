@@ -77,19 +77,40 @@
         "padding_bottom": 100
       }
     },
+    "rich_text_PP7WMF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FEwP9L": {
+          "type": "heading",
+          "settings": {
+            "heading": "What Makes Us Different",
+            "heading_size": "h1"
+          }
+        },
+        "text_RLetz6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At GenExhaust, we believe that reliability begins with precision. Every product we offer - from our custom-fit exhaust extensions to our maintenance accessories - is built with an emphasis on safety, durability, and ease of installation. Whether you're powering a job site, preparing for emergencies, or venting a generator from your RV or outbuilding, we make sure our solutions help you run with confidence.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FEwP9L",
+        "text_RLetz6"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 80
+      }
+    },
     "multirow_bWdwdB": {
       "type": "multirow",
       "blocks": {
-        "row_K7NiW8": {
-          "type": "row",
-          "settings": {
-            "caption": "",
-            "heading": "What Makes Us Different",
-            "text": "<p>At GenExhaust, we believe that reliability begins with precision. Every product we offer - from our custom-fit exhaust extensions to our maintenance accessories - is built with an emphasis on safety, durability, and ease of installation. Whether you're powering a job site, preparing for emergencies, or venting a generator from your RV or outbuilding, we make sure our solutions help you run with confidence.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
         "row_EqLzQ7": {
           "type": "row",
           "settings": {
@@ -122,7 +143,6 @@
         }
       },
       "block_order": [
-        "row_K7NiW8",
         "row_EqLzQ7",
         "row_khjh9g",
         "row_EWCwKB"
@@ -149,6 +169,7 @@
     "main",
     "image_banner_tzrcrP",
     "image_with_text_hpiMBD",
+    "rich_text_PP7WMF",
     "multirow_bWdwdB"
   ]
 }

@@ -108,64 +108,6 @@
         "padding_bottom": 80
       }
     },
-    "multicolumn_z4xAck": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_WmLPgU": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/iconmonstr-user-30.svg",
-            "title": "Proudly Made in the USA",
-            "text": "<p>All of our products are proudly manufactured in the United States using high-grade materials and proven machining techniques. As a small business, we take pride in supporting local jobs and maintaining a hands-on approach in everything we create. It’s not just about selling a product - it’s about delivering dependable solutions our customers can count on.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_rUtfcc": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/iconmonstr-user-29.svg",
-            "title": "Trusted by DIYers and Professionals Alike",
-            "text": "<p>Our customers range from homeowners and campers to contractors and first responders. We’re honored to support people who rely on portable power in critical situations, and we’re committed to making exhaust routing safer and simpler for everyone.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_69jk4B": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/iconmonstr-user-29.svg",
-            "title": "Built on Feedback, Backed by Support",
-            "text": "<p>As the business has grown, so has our connection with customers. Many of our product refinements have come directly from user suggestions. We listen, we adjust, and we continue to innovate - because we know the best ideas often come from the field.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_WmLPgU",
-        "column_rUtfcc",
-        "column_69jk4B"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
-        "block_layout": "column",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multirow_KUDEkH": {
       "type": "multirow",
       "blocks": {
@@ -218,8 +160,8 @@
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
         "row_color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 40,
+        "padding_bottom": 100
       }
     }
   },
@@ -228,7 +170,6 @@
     "image_banner_tzrcrP",
     "image_with_text_hpiMBD",
     "rich_text_PP7WMF",
-    "multicolumn_z4xAck",
     "multirow_KUDEkH"
   ]
 }

@@ -33,7 +33,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/04_collection.jpg",
+        "image": "shopify://shop_images/05_collection.jpg",
         "image_overlay_opacity": 20,
         "image_height": "small",
         "image_behavior": "none",
@@ -170,7 +170,7 @@
         "button_label": "",
         "button_link": "",
         "block_layout": "column",
-        "columns_desktop": 3,
+        "columns_desktop": 1,
         "column_alignment": "center",
         "background_style": "primary",
         "color_scheme": "",

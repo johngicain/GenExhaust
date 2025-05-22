@@ -45,10 +45,42 @@
         "mobile_content_alignment": "center",
         "show_text_below": true
       }
+    },
+    "image_with_text_hpiMBD": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_EWQjQn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>1100 North Innovations, LLC is an independently owned business started by an engineer and tool maker who enjoys developing products that make life easier.</p><p>The business started with an effort to exhaust a portable generator from an out building at a campsite. The owner wanted to have a more permanent set-up out of the weather while maintaining safety. The result sparked design refinement and an eventual listing on eBay. Since day one, the goal has been to provide the highest quality product at a fair price.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_EWQjQn"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/05_collection_smartphone2.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
     }
   },
   "order": [
     "main",
-    "image_banner_tzrcrP"
+    "image_banner_tzrcrP",
+    "image_with_text_hpiMBD"
   ]
 }

@@ -198,8 +198,8 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "multicolumn_Yimice": {
@@ -208,6 +208,7 @@
         "column_9RxKmg": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/iconmonstr-award-17.svg",
             "title": "Trusted by DIYers and Professionals Alike",
             "text": "<p>Our customers range from homeowners and campers to contractors and first responders. We’re honored to support people who rely on portable power in critical situations, and we’re committed to making exhaust routing safer and simpler for everyone.</p>",
             "link_label": "",
@@ -222,19 +223,19 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "full",
+        "image_width": "sixth",
         "image_ratio": "adapt",
         "button_label": "",
         "button_link": "",
-        "block_layout": "column",
+        "block_layout": "row",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "multicolumn_tUCjiP": {
@@ -269,8 +270,8 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 20,
+        "padding_bottom": 100
       }
     }
   },

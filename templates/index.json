@@ -426,7 +426,7 @@
           "type": "text",
           "settings": {
             "text": "American made parts with American made materials on American made machines by American craftsmen",
-            "text_style": "body"
+            "text_style": "caption-with-letter-spacing"
           }
         }
       },

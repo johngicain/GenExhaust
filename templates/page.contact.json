@@ -67,7 +67,7 @@
         "text_MRdM8a": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>If you have any questions about a generator exhaust extension kit or any of our products,please contact us using the form below.<br/><br/></p>"
+            "text": "<p>If you have any questions about a generator exhaust extension kit or any of our products, please contact us using the form below.</p>"
           }
         }
       },
@@ -109,7 +109,7 @@
           "type": "text",
           "settings": {
             "text": "American made parts with American made materials on American made machines by American craftsmen",
-            "text_style": "body"
+            "text_style": "caption-with-letter-spacing"
           }
         }
       },

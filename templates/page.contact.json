@@ -23,21 +23,13 @@
         "heading_ba8EHH": {
           "type": "heading",
           "settings": {
-            "heading": "Get in Touch Today, We're here to help",
-            "heading_size": "h1"
-          }
-        },
-        "text_QeJXeV": {
-          "type": "text",
-          "settings": {
-            "text": "If you have any questions about a generator exhaust extension kit or any of our products,please contact us using the form below.",
-            "text_style": "body"
+            "heading": "CONTACT US",
+            "heading_size": "h0"
           }
         }
       },
       "block_order": [
-        "heading_ba8EHH",
-        "text_QeJXeV"
+        "heading_ba8EHH"
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
@@ -54,13 +46,44 @@
         "show_text_below": false
       }
     },
+    "rich_text_rqcPgf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_nU78Nt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get in Touch Today, We're here to help",
+            "heading_size": "h1"
+          }
+        },
+        "text_MRdM8a": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br/>If you have any questions about a generator exhaust extension kit or any of our products,please contact us using the form below.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_nU78Nt",
+        "text_MRdM8a"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 80,
+        "padding_bottom": 60
+      }
+    },
     "form": {
       "type": "contact-form",
       "settings": {
         "heading": "",
         "heading_size": "h1",
         "color_scheme": "scheme-1",
-        "padding_top": 80,
+        "padding_top": 0,
         "padding_bottom": 80
       }
     },
@@ -105,6 +128,7 @@
   "order": [
     "main",
     "image_banner_PfHTbb",
+    "rich_text_rqcPgf",
     "form",
     "image_banner_Hyg3cP"
   ]

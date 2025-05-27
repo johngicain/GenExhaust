@@ -65,6 +65,10 @@
   }
 }
 
+.card .card__heading .icon-wrap {
+  display: none;
+}
+
 .testimonials {
   position: relative;
   max-width: 1200px;
@@ -218,11 +222,6 @@
 
 .slider-buttons {
   display: none !important;
-}
-
-.collapsible-content .accordion summary .icon-caret {
-  width: auto;
-  height: 0.9rem;
 }
 
 .footer-block .footer-block__details-content .list-menu__item {

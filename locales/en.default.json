@@ -216,7 +216,7 @@
   },
   "templates": {
     "search": {
-      "no_results": "No results found for “{{ terms }}”. Check the spelling or use a different word or phrase.",
+      "no_results": "No results found for \"{{ terms }}\". Check the spelling or use a different word or phrase.",
       "page": "Page",
       "products": "Products",
       "results_pages_with_count": {
@@ -236,11 +236,11 @@
         "other": "{{ count }} results"
       },
       "results_with_count_and_term": {
-        "one": "{{ count }} result found for “{{ terms }}”",
-        "other": "{{ count }} results found for “{{ terms }}”"
+        "one": "{{ count }} result found for \"{{ terms }}\"",
+        "other": "{{ count }} results found for \"{{ terms }}\""
       },
       "title": "Search results",
-      "search_for": "Search for “{{ terms }}”",
+      "search_for": "Search for \"{{ terms }}\"",
       "suggestions": "Suggestions",
       "pages": "Pages"
     },
@@ -249,14 +249,17 @@
     },
     "contact": {
       "form": {
-        "title": "Contact form",
+        "title": "Contact us",
         "name": "Name",
         "email": "Email",
         "phone": "Phone number",
         "comment": "Comment",
         "send": "Send",
         "post_success": "Thanks for contacting us. We'll get back to you as soon as possible.",
-        "error_heading": "Please adjust the following:"
+        "error_heading": "Sorry, we couldn't send your message",
+        "generator_make": "Generator Make",
+        "generator_model": "Generator Model",
+        "product": "Product"
       }
     },
     "404": {

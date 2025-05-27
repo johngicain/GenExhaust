@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-=======
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
->>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
 {
   "sections": {
     "main": {
@@ -36,11 +24,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-<<<<<<< HEAD
         "image": "shopify:\/\/shop_images\/05_collection.jpg",
-=======
-        "image": "shopify://shop_images/05_collection.jpg",
->>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
         "image_overlay_opacity": 20,
         "image_height": "small",
         "image_behavior": "none",
@@ -61,26 +45,16 @@
           "settings": {
             "heading": "How long of a length of exhaust tubing can I run?",
             "icon": "none",
-<<<<<<< HEAD
             "row_content": "<p>In most typical applications, 3\/4″ tubing can be run 5′ or less, 1″ tubing can be run 8′ or less, and 1-1\/2″ tubing can be run up to 12 feet; all these can vary depending on the stock exhaust port inside diameter.<\/p>",
-=======
-            "row_content": "<p>In most typical applications, 3/4″ tubing can be run 5′ or less, 1″ tubing can be run 8′ or less, and 1-1/2″ tubing can be run up to 12 feet; all these can vary depending on the stock exhaust port inside diameter.</p>",
->>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
             "page": ""
           }
         },
         "collapsible_row_3AKJk3": {
           "type": "collapsible_row",
           "settings": {
-<<<<<<< HEAD
             "heading": "How hot does the exhaust tube\/pipe get?",
             "icon": "none",
             "row_content": "<p>There is a large variance in temperatures from one brand to another, but the first 18-24 inches will get the hottest – especially is there is a bend in that section of the run. It is always wise to insulate the tube\/pipe with automotive header wrap or heat resistant insulation if coming in contact with a combustible material.<\/p>",
-=======
-            "heading": "How hot does the exhaust tube/pipe get?",
-            "icon": "none",
-            "row_content": "<p>There is a large variance in temperatures from one brand to another, but the first 18-24 inches will get the hottest – especially is there is a bend in that section of the run. It is always wise to insulate the tube/pipe with automotive header wrap or heat resistant insulation if coming in contact with a combustible material.</p>",
->>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
             "page": ""
           }
         },
@@ -89,11 +63,7 @@
           "settings": {
             "heading": "Is it hard to weld the fittings to the muffler since the muffler has a thin wall?",
             "icon": "none",
-<<<<<<< HEAD
             "row_content": "<p>It is a fairly easy task for an accomplished welder. All weld on fittings are chamfered in order to clear any existing weld bead on the muffler and to reduce the amount of heat required to get a good weld. Typically MIG or TIG is the best weld for these.<\/p>",
-=======
-            "row_content": "<p>It is a fairly easy task for an accomplished welder. All weld on fittings are chamfered in order to clear any existing weld bead on the muffler and to reduce the amount of heat required to get a good weld. Typically MIG or TIG is the best weld for these.</p>",
->>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
             "page": ""
           }
         },
@@ -102,11 +72,7 @@
           "settings": {
             "heading": "Why should I remove the muffler before welding the fitting?",
             "icon": "none",
-<<<<<<< HEAD
             "row_content": "<p>The muffler should be removed to avoid the chance of damage to the generator’s electrical system.<\/p>",
-=======
-            "row_content": "<p>The muffler should be removed to avoid the chance of damage to the generator’s electrical system.</p>",
->>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
             "page": ""
           }
         },
@@ -115,11 +81,7 @@
           "settings": {
             "heading": "Does this exhaust set-up allow me to run this in my living area?",
             "icon": "none",
-<<<<<<< HEAD
             "row_content": "<p>NO! A running engine should never be in a living area. CO sensors should be used if this is being used in an attached building, like a garage.<\/p>",
-=======
-            "row_content": "<p>NO! A running engine should never be in a living area. CO sensors should be used if this is being used in an attached building, like a garage.</p>",
->>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
             "page": ""
           }
         },
@@ -128,11 +90,7 @@
           "settings": {
             "heading": "I see that there are two types of magnetic dipsticks; anodized and non-anodized. Why should I consider anodized parts over non-anodized?",
             "icon": "none",
-<<<<<<< HEAD
             "row_content": "<p>Anodization increases lubricity and creates a non-galling surface that reduces the chance of seizing.<\/p>",
-=======
-            "row_content": "<p>Anodization increases lubricity and creates a non-galling surface that reduces the chance of seizing.</p>",
->>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
             "page": ""
           }
         }
@@ -185,11 +143,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-<<<<<<< HEAD
         "image": "shopify:\/\/shop_images\/04_small_2.png",
-=======
-        "image": "shopify://shop_images/04_small_2.png",
->>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
         "image_overlay_opacity": 30,
         "image_height": "small",
         "image_behavior": "none",

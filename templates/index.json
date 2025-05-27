@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner": {
@@ -21,7 +30,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,7 +44,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/05_collection.jpg",
+        "image": "shopify://shop_images/05_collection.jpg",
         "image_overlay_opacity": 30,
         "image_height": "medium",
         "image_behavior": "none",
@@ -54,9 +63,9 @@
         "column_KhFtYx": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/icon-link-white.svg",
+            "image": "shopify://shop_images/icon-link-white.svg",
             "title": "",
-            "text": "<p><strong>Custom-Fit Compatibility<\/strong><\/p>",
+            "text": "<p><strong>Custom-Fit Compatibility</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -64,9 +73,9 @@
         "column_fbARUf": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/icon-wrench-white.svg",
+            "image": "shopify://shop_images/icon-wrench-white.svg",
             "title": "",
-            "text": "<p><strong>Easy Installation Options<\/strong><\/p>",
+            "text": "<p><strong>Easy Installation Options</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -74,9 +83,9 @@
         "column_beUW7w": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/icon-shield-white.svg",
+            "image": "shopify://shop_images/icon-shield-white.svg",
             "title": "",
-            "text": "<p><strong>Enhanced Safety & Ventilation<\/strong><\/p>",
+            "text": "<p><strong>Enhanced Safety & Ventilation</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -84,9 +93,9 @@
         "column_MTgfFB": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/icon-clock-quick-white.svg",
+            "image": "shopify://shop_images/icon-clock-quick-white.svg",
             "title": "",
-            "text": "<p><strong>Quick Disconnect & Maintenance Accessories<\/strong><\/p>",
+            "text": "<p><strong>Quick Disconnect & Maintenance Accessories</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -166,7 +175,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop More",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -181,7 +190,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify:\/\/shop_images\/02_banner_ok2-v1.png",
+        "image": "shopify://shop_images/02_banner_ok2-v1.png",
         "image_overlay_opacity": 30,
         "image_height": "small",
         "image_behavior": "none",
@@ -251,7 +260,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify:\/\/shop_images\/05_collection_2.jpg",
+        "image": "shopify://shop_images/05_collection_2.jpg",
         "image_overlay_opacity": 30,
         "image_height": "small",
         "image_behavior": "none",
@@ -329,16 +338,16 @@
           "settings": {
             "heading": "How long of a length of exhaust tubing can I run?",
             "icon": "none",
-            "row_content": "<p>In most typical applications, 3\/4″ tubing can be run 5′ or less, 1″ tubing can be run 8′ or less, and 1-1\/2″ tubing can be run up to 12 feet; all these can vary depending on the stock exhaust port inside diameter.<\/p>",
+            "row_content": "<p>In most typical applications, 3/4″ tubing can be run 5′ or less, 1″ tubing can be run 8′ or less, and 1-1/2″ tubing can be run up to 12 feet; all these can vary depending on the stock exhaust port inside diameter.</p>",
             "page": ""
           }
         },
         "collapsible_row_TzhCGc": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How hot does the exhaust tube\/pipe get?",
+            "heading": "How hot does the exhaust tube/pipe get?",
             "icon": "none",
-            "row_content": "<p>There is a large variance in temperatures from one brand to another, but the first 18-24 inches will get the hottest – especially is there is a bend in that section of the run. It is always wise to insulate the tube\/pipe with automotive header wrap or heat resistant insulation if coming in contact with a combustible material.<\/p>",
+            "row_content": "<p>There is a large variance in temperatures from one brand to another, but the first 18-24 inches will get the hottest – especially is there is a bend in that section of the run. It is always wise to insulate the tube/pipe with automotive header wrap or heat resistant insulation if coming in contact with a combustible material.</p>",
             "page": ""
           }
         },
@@ -347,7 +356,7 @@
           "settings": {
             "heading": "Is it hard to weld the fittings to the muffler since the muffler has a thin wall?",
             "icon": "none",
-            "row_content": "<p>It is a fairly easy task for an accomplished welder. All weld on fittings are chamfered in order to clear any existing weld bead on the muffler and to reduce the amount of heat required to get a good weld. Typically MIG or TIG is the best weld for these.<\/p>",
+            "row_content": "<p>It is a fairly easy task for an accomplished welder. All weld on fittings are chamfered in order to clear any existing weld bead on the muffler and to reduce the amount of heat required to get a good weld. Typically MIG or TIG is the best weld for these.</p>",
             "page": ""
           }
         },
@@ -356,7 +365,7 @@
           "settings": {
             "heading": "Why should I remove the muffler before welding the fitting?",
             "icon": "none",
-            "row_content": "<p>The muffler should be removed to avoid the chance of damage to the generator’s electrical system.<\/p>",
+            "row_content": "<p>The muffler should be removed to avoid the chance of damage to the generator’s electrical system.</p>",
             "page": ""
           }
         },
@@ -365,7 +374,7 @@
           "settings": {
             "heading": "Does this exhaust set-up allow me to run this in my living area?",
             "icon": "none",
-            "row_content": "<p>NO! A running engine should never be in a living area. CO sensors should be used if this is being used in an attached building, like a garage.<\/p>",
+            "row_content": "<p>NO! A running engine should never be in a living area. CO sensors should be used if this is being used in an attached building, like a garage.</p>",
             "page": ""
           }
         },
@@ -374,7 +383,7 @@
           "settings": {
             "heading": "I see that there are two types of magnetic dipsticks; anodized and non-anodized. Why should I consider anodized parts over non-anodized?",
             "icon": "none",
-            "row_content": "<p>Anodization increases lubricity and creates a non-galling surface that reduces the chance of seizing.<\/p>",
+            "row_content": "<p>Anodization increases lubricity and creates a non-galling surface that reduces the chance of seizing.</p>",
             "page": ""
           }
         }
@@ -400,7 +409,10 @@
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 80,
-        "padding_bottom": 80
+        "padding_bottom": 80,
+        "button_label": "Read more",
+        "button_link": "shopify://pages/faq",
+        "button_style_secondary": false
       }
     },
     "image_banner_4KXkaG": {
@@ -427,7 +439,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify:\/\/shop_images\/04_small_2.png",
+        "image": "shopify://shop_images/04_small_2.png",
         "image_overlay_opacity": 30,
         "image_height": "small",
         "image_behavior": "none",

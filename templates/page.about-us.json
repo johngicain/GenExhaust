@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+=======
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+>>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
 {
   "sections": {
     "main": {
@@ -24,7 +36,11 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
+<<<<<<< HEAD
         "image": "shopify:\/\/shop_images\/05_collection.jpg",
+=======
+        "image": "shopify://shop_images/05_collection.jpg",
+>>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
         "image_overlay_opacity": 20,
         "image_height": "small",
         "image_behavior": "none",
@@ -43,7 +59,11 @@
         "text_EWQjQn": {
           "type": "text",
           "settings": {
+<<<<<<< HEAD
             "text": "<p>1100 North Innovations, LLC is an independently owned business started by an engineer and tool maker who enjoys developing products that make life easier.<\/p><p>The business started with an effort to exhaust a portable generator from an out building at a campsite. The owner wanted to have a more permanent set-up out of the weather while maintaining safety. The result sparked design refinement and an eventual listing on eBay. Since day one, the goal has been to provide the highest quality product at a fair price.<\/p>",
+=======
+            "text": "<p>1100 North Innovations, LLC is an independently owned business started by an engineer and tool maker who enjoys developing products that make life easier.</p><p>The business started with an effort to exhaust a portable generator from an out building at a campsite. The owner wanted to have a more permanent set-up out of the weather while maintaining safety. The result sparked design refinement and an eventual listing on eBay. Since day one, the goal has been to provide the highest quality product at a fair price.</p>",
+>>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
             "text_style": "body"
           }
         }
@@ -53,7 +73,11 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+<<<<<<< HEAD
         "image": "shopify:\/\/shop_images\/Exhaust_Transitions___Vents.png",
+=======
+        "image": "shopify://shop_images/Exhaust_Transitions___Vents.png",
+>>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -81,7 +105,11 @@
         "text_RLetz6": {
           "type": "text",
           "settings": {
+<<<<<<< HEAD
             "text": "<p>At GenExhaust, we believe that reliability begins with precision. Every product we offer - from our custom-fit exhaust extensions to our maintenance accessories - is built with an emphasis on safety, durability, and ease of installation. Whether you're powering a job site, preparing for emergencies, or venting a generator from your RV or outbuilding, we make sure our solutions help you run with confidence.<\/p>"
+=======
+            "text": "<p>At GenExhaust, we believe that reliability begins with precision. Every product we offer - from our custom-fit exhaust extensions to our maintenance accessories - is built with an emphasis on safety, durability, and ease of installation. Whether you're powering a job site, preparing for emergencies, or venting a generator from your RV or outbuilding, we make sure our solutions help you run with confidence.</p>"
+>>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
           }
         }
       },
@@ -105,9 +133,15 @@
         "column_ymVqMV": {
           "type": "column",
           "settings": {
+<<<<<<< HEAD
             "image": "shopify:\/\/shop_images\/iconmonstr-star-6.svg",
             "title": "Proudly Made in the USA",
             "text": "<p>All of our products are proudly manufactured in the United States using high-grade materials and proven machining techniques. As a small business, we take pride in supporting local jobs and maintaining a hands-on approach in everything we create. It’s not just about selling a product - it’s about delivering dependable solutions our customers can count on.<\/p>",
+=======
+            "image": "shopify://shop_images/iconmonstr-star-6.svg",
+            "title": "Proudly Made in the USA",
+            "text": "<p>All of our products are proudly manufactured in the United States using high-grade materials and proven machining techniques. As a small business, we take pride in supporting local jobs and maintaining a hands-on approach in everything we create. It’s not just about selling a product - it’s about delivering dependable solutions our customers can count on.</p>",
+>>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
             "link_label": "",
             "link": ""
           }
@@ -141,9 +175,15 @@
         "column_9RxKmg": {
           "type": "column",
           "settings": {
+<<<<<<< HEAD
             "image": "shopify:\/\/shop_images\/iconmonstr-award-17.svg",
             "title": "Trusted by DIYers and Professionals Alike",
             "text": "<p>Our customers range from homeowners and campers to contractors and first responders. We’re honored to support people who rely on portable power in critical situations, and we’re committed to making exhaust routing safer and simpler for everyone.<\/p>",
+=======
+            "image": "shopify://shop_images/iconmonstr-award-17.svg",
+            "title": "Trusted by DIYers and Professionals Alike",
+            "text": "<p>Our customers range from homeowners and campers to contractors and first responders. We’re honored to support people who rely on portable power in critical situations, and we’re committed to making exhaust routing safer and simpler for everyone.</p>",
+>>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
             "link_label": "",
             "link": ""
           }
@@ -177,9 +217,15 @@
         "column_T3Mx79": {
           "type": "column",
           "settings": {
+<<<<<<< HEAD
             "image": "shopify:\/\/shop_images\/iconmonstr-megaphone-10.svg",
             "title": "Built on Feedback, Backed by Support",
             "text": "<p>As the business has grown, so has our connection with customers. Many of our product refinements have come directly from user suggestions. We listen, we adjust, and we continue to innovate - because we know the best ideas often come from the field.<\/p>",
+=======
+            "image": "shopify://shop_images/iconmonstr-megaphone-10.svg",
+            "title": "Built on Feedback, Backed by Support",
+            "text": "<p>As the business has grown, so has our connection with customers. Many of our product refinements have come directly from user suggestions. We listen, we adjust, and we continue to innovate - because we know the best ideas often come from the field.</p>",
+>>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
             "link_label": "",
             "link": ""
           }
@@ -231,7 +277,11 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
+<<<<<<< HEAD
         "image": "shopify:\/\/shop_images\/04_small_2.png",
+=======
+        "image": "shopify://shop_images/04_small_2.png",
+>>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
         "image_overlay_opacity": 30,
         "image_height": "small",
         "image_behavior": "none",

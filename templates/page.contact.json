@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -32,7 +41,11 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
+<<<<<<< HEAD
         "image": "shopify:\/\/shop_images\/05_collection.jpg",
+=======
+        "image": "shopify://shop_images/05_collection.jpg",
+>>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
         "image_overlay_opacity": 20,
         "image_height": "small",
         "image_behavior": "none",
@@ -58,7 +71,11 @@
         "text_MRdM8a": {
           "type": "text",
           "settings": {
+<<<<<<< HEAD
             "text": "<p>If you have any questions about a generator exhaust extension kit or any of our products, please contact us using the form below.<\/p>"
+=======
+            "text": "<p>If you have any questions about a generator exhaust extension kit or any of our products, please contact us using the form below.</p>"
+>>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
           }
         }
       },
@@ -110,7 +127,11 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
+<<<<<<< HEAD
         "image": "shopify:\/\/shop_images\/04_small_2.png",
+=======
+        "image": "shopify://shop_images/04_small_2.png",
+>>>>>>> fb8d5226d499e1320cf580ae4d3c3685cf3fae72
         "image_overlay_opacity": 30,
         "image_height": "small",
         "image_behavior": "none",

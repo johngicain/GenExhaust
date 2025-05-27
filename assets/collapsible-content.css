@@ -129,3 +129,45 @@
     }
   }
 }
+
+.collapsible-content__button-wrapper {
+  margin-top: 3.5rem;
+  text-align: center;
+}
+
+@media screen and (min-width: 990px) {
+  .collapsible-content__button-wrapper {
+    margin-top: 5rem;
+  }
+}
+
+.collapsible-content__button-wrapper .button {
+  min-width: 200px;
+  padding: 1.5rem 3rem;
+  font-size: 1.4rem;
+  line-height: 1.2;
+  text-decoration: none;
+  text-align: center;
+  transition: all 0.2s ease-in-out;
+}
+
+.collapsible-content__button-wrapper .button--primary {
+  background-color: rgb(var(--color-button));
+  color: rgb(var(--color-button-text));
+}
+
+.collapsible-content__button-wrapper .button--primary:hover {
+  color: rgb(var(--color-button));
+  background-color: rgb(var(--color-button-hover));
+}
+
+.collapsible-content__button-wrapper .button--secondary {
+  background-color: transparent;
+  color: rgb(var(--color-button));
+  border: 0.1rem solid rgb(var(--color-button));
+}
+
+.collapsible-content__button-wrapper .button--secondary:hover {
+  background-color: rgb(var(--color-button));
+  color: rgb(var(--color-button-text));
+}

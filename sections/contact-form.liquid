@@ -43,12 +43,14 @@
           </h2>
         </div>
         <ul class="form-status-list caption-large" role="list">
-          <li>
-            <a href="#ContactForm-email" class="link">
-              {{ form.errors.translated_fields.email | capitalize }}
-              {{ form.errors.messages.email }}
-            </a>
-          </li>
+          {%- for field in form.errors -%}
+            <li>
+              <a href="#ContactForm-{{ field }}" class="link">
+                {{ form.errors.translated_fields[field] | capitalize }}
+                {{ form.errors.messages[field] }}
+              </a>
+            </li>
+          {%- endfor -%}
         </ul>
       {%- endif -%}
       <div class="contact__fields">
@@ -60,13 +62,25 @@
             id="ContactForm-name"
             name="contact[{{ 'templates.contact.form.name' | t }}]"
             value="{% if form.name %}{{ form.name }}{% elsif customer %}{{ customer.name }}{% endif %}"
-            aria-required="true"
             placeholder="{{ 'templates.contact.form.name' | t }}"
+            required
           >
           <label class="field__label" for="ContactForm-name">
             {{- 'templates.contact.form.name' | t }}
             <span aria-hidden="true">*</span>
           </label>
+          {%- if form.errors contains 'name' -%}
+            <small class="contact__field-error" id="ContactForm-name-error">
+              <span class="visually-hidden">{{ 'accessibility.error' | t }}</span>
+              <span class="form__message">
+                <span class="svg-wrapper">
+                  {{- 'icon-error.svg' | inline_asset_content -}}
+                </span>
+                {{- form.errors.translated_fields.name | capitalize }}
+                {{ form.errors.messages.name -}}
+              </span>
+            </small>
+          {%- endif -%}
         </div>
         <div class="field field--with-error">
           <input
@@ -78,7 +92,7 @@
             spellcheck="false"
             autocapitalize="off"
             value="{% if form.email %}{{ form.email }}{% elsif customer %}{{ customer.email }}{% endif %}"
-            aria-required="true"
+            required
             {% if form.errors contains 'email' %}
               aria-invalid="true"
               aria-describedby="ContactForm-email-error"
@@ -87,7 +101,8 @@
           >
           <label class="field__label" for="ContactForm-email">
             {{- 'templates.contact.form.email' | t }}
-            <span aria-hidden="true">*</span></label>
+            <span aria-hidden="true">*</span>
+          </label>
           {%- if form.errors contains 'email' -%}
             <small class="contact__field-error" id="ContactForm-email-error">
               <span class="visually-hidden">{{ 'accessibility.error' | t }}</span>
@@ -111,16 +126,26 @@
           name="contact[{{ 'templates.contact.form.phone' | t }}]"
           pattern="[0-9\-]*"
           value="{% if form.phone %}{{ form.phone }}{% elsif customer %}{{ customer.phone }}{% endif %}"
-          aria-required="true"
+          required
           placeholder="{{ 'templates.contact.form.phone' | t }}"
         >
         <label class="field__label" for="ContactForm-phone">
-          {{ 'templates.contact.form.phone' | t }}
+          {{- 'templates.contact.form.phone' | t }}
           <span aria-hidden="true">*</span>
         </label>
+        {%- if form.errors contains 'phone' -%}
+          <small class="contact__field-error" id="ContactForm-phone-error">
+            <span class="visually-hidden">{{ 'accessibility.error' | t }}</span>
+            <span class="form__message">
+              <span class="svg-wrapper">
+                {{- 'icon-error.svg' | inline_asset_content -}}
+              </span>
+              {{- form.errors.translated_fields.phone | capitalize }}
+              {{ form.errors.messages.phone -}}
+            </span>
+          </small>
+        {%- endif -%}
       </div>
-
-
       <div class="contact__fields">
         <div class="field">
           <input
@@ -143,7 +168,6 @@
           <label class="field__label" for="ContactForm-generator-model">{{ 'templates.contact.form.generator_model' | t }}</label>
         </div>
       </div>
-
       <div class="field">
         <input
           type="text"
@@ -162,7 +186,7 @@
           class="text-area field__input"
           name="contact[comment]"
           placeholder="{{ 'templates.contact.form.comment' | t }}"
-          aria-required="true"
+          required
         >
           {{- form.body -}}
         </textarea>
@@ -170,6 +194,18 @@
           {{- 'templates.contact.form.comment' | t -}}
           <span aria-hidden="true">*</span>
         </label>
+        {%- if form.errors contains 'comment' -%}
+          <small class="contact__field-error" id="ContactForm-comment-error">
+            <span class="visually-hidden">{{ 'accessibility.error' | t }}</span>
+            <span class="form__message">
+              <span class="svg-wrapper">
+                {{- 'icon-error.svg' | inline_asset_content -}}
+              </span>
+              {{- form.errors.translated_fields.comment | capitalize }}
+              {{ form.errors.messages.comment -}}
+            </span>
+          </small>
+        {%- endif -%}
       </div>
       <div class="contact__button">
         <button type="submit" class="button">

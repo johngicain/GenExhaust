@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "sections": {
     "image_banner": {
@@ -23,14 +14,14 @@
           "type": "text",
           "settings": {
             "text": "Reliable, customizable exhaust extensions for any generator setup.",
-            "text_style": "body"
+            "text_style": "caption-with-letter-spacing"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
+            "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -44,7 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify://shop_images/05_collection.jpg",
+        "image": "shopify:\/\/shop_images\/05_collection.jpg",
         "image_overlay_opacity": 30,
         "image_height": "medium",
         "image_behavior": "none",
@@ -53,7 +44,7 @@
         "show_text_box": false,
         "color_scheme": "scheme-0222a42b-4aae-4171-b056-7a1ae7529273",
         "stack_images_on_mobile": false,
-        "mobile_content_alignment": "center",
+        "mobile_content_alignment": "left",
         "show_text_below": false
       }
     },
@@ -63,9 +54,9 @@
         "column_KhFtYx": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/icon-link-white.svg",
+            "image": "shopify:\/\/shop_images\/icon-link-white.svg",
             "title": "",
-            "text": "<p><strong>Custom-Fit Compatibility</strong></p>",
+            "text": "<p><strong>Custom-Fit Compatibility<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -73,9 +64,9 @@
         "column_fbARUf": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/icon-wrench-white.svg",
+            "image": "shopify:\/\/shop_images\/icon-wrench-white.svg",
             "title": "",
-            "text": "<p><strong>Easy Installation Options</strong></p>",
+            "text": "<p><strong>Easy Installation Options<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -83,9 +74,9 @@
         "column_beUW7w": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/icon-shield-white.svg",
+            "image": "shopify:\/\/shop_images\/icon-shield-white.svg",
             "title": "",
-            "text": "<p><strong>Enhanced Safety & Ventilation</strong></p>",
+            "text": "<p><strong>Enhanced Safety & Ventilation<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -93,9 +84,9 @@
         "column_MTgfFB": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/icon-clock-quick-white.svg",
+            "image": "shopify:\/\/shop_images\/icon-clock-quick-white.svg",
             "title": "",
-            "text": "<p><strong>Quick Disconnect & Maintenance Accessories</strong></p>",
+            "text": "<p><strong>Quick Disconnect & Maintenance Accessories<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -120,59 +111,10 @@
         "column_alignment": "left",
         "background_style": "primary",
         "color_scheme": "scheme-4",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
         "padding_top": 20,
         "padding_bottom": 20
-      }
-    },
-    "image_banner_qCYAyA": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_8Ry3Jd": {
-          "type": "heading",
-          "settings": {
-            "heading": "FIND THE RIGHT FIT FOR YOUR GENERATOR.",
-            "heading_size": "h0"
-          }
-        },
-        "text_p68ih3": {
-          "type": "text",
-          "settings": {
-            "text": "Shop custom exhaust kits and accessories built for safety and performance.",
-            "text_style": "body"
-          }
-        },
-        "buttons_th9EA4": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop More",
-            "button_link_1": "shopify://collections/all",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_8Ry3Jd",
-        "text_p68ih3",
-        "buttons_th9EA4"
-      ],
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/02_banner_ok2-v1.png",
-        "image_overlay_opacity": 30,
-        "image_height": "small",
-        "image_behavior": "none",
-        "desktop_content_position": "middle-center",
-        "desktop_content_alignment": "center",
-        "show_text_box": false,
-        "color_scheme": "scheme-0222a42b-4aae-4171-b056-7a1ae7529273",
-        "stack_images_on_mobile": true,
-        "mobile_content_alignment": "center",
-        "show_text_below": true
       }
     },
     "featured_collection": {
@@ -198,28 +140,48 @@
         "show_rating": false,
         "quick_add": "none",
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 80,
         "padding_bottom": 80
       }
     },
-    "image_banner_mtd3TT": {
+    "image_banner_qCYAyA": {
       "type": "image-banner",
       "blocks": {
-        "heading_JG4pyd": {
+        "heading_8Ry3Jd": {
           "type": "heading",
           "settings": {
-            "heading": "ENGINEERED FOR GENERATORS. TRUSTED BY PROS.",
+            "heading": "FIND THE RIGHT FIT FOR YOUR GENERATOR.",
             "heading_size": "h0"
+          }
+        },
+        "text_p68ih3": {
+          "type": "text",
+          "settings": {
+            "text": "Shop custom exhaust kits and accessories built for safety and performance.",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "buttons_th9EA4": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop More",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading_JG4pyd"
+        "heading_8Ry3Jd",
+        "text_p68ih3",
+        "buttons_th9EA4"
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/05_collection_2.jpg",
+        "image": "shopify:\/\/shop_images\/02_banner_ok2-v1.png",
         "image_overlay_opacity": 30,
         "image_height": "small",
         "image_behavior": "none",
@@ -229,7 +191,7 @@
         "color_scheme": "scheme-0222a42b-4aae-4171-b056-7a1ae7529273",
         "stack_images_on_mobile": true,
         "mobile_content_alignment": "center",
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "collection_list_tNQg7h": {
@@ -273,6 +235,174 @@
         "padding_bottom": 80
       }
     },
+    "image_banner_mtd3TT": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_JG4pyd": {
+          "type": "heading",
+          "settings": {
+            "heading": "ENGINEERED FOR GENERATORS. TRUSTED BY PROS.",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_JG4pyd"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/05_collection_2.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-0222a42b-4aae-4171-b056-7a1ae7529273",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "testimonials_4YtzJj": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_EKW7x6": {
+          "type": "testimonial",
+          "settings": {
+            "author": "On our Exhaust Extension",
+            "position": "",
+            "rating": 5,
+            "content": "Installation was quick and easy. The fit was perfect for my generator and it vents exhaust exactly as expected."
+          }
+        },
+        "testimonial_BEAVNV": {
+          "type": "testimonial",
+          "settings": {
+            "author": "On our Magnetic Dipstick",
+            "position": "",
+            "rating": 5,
+            "content": "Perfect fit in my 2022 Honda EU7000IS generator. Seems to be very well made, time will tell on durability. Very pleased!"
+          }
+        },
+        "testimonial_mkFweC": {
+          "type": "testimonial",
+          "settings": {
+            "author": "On our Double Shielded Through Wall Steel tubing",
+            "position": "",
+            "rating": 5,
+            "content": "This is a high quality product that dropped inner wall to outer wall temperatures dramatically - just as described."
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_EKW7x6",
+        "testimonial_BEAVNV",
+        "testimonial_mkFweC"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "title": "",
+        "title_alignment": "center",
+        "heading_size": "h1",
+        "description": "",
+        "description_alignment": "center",
+        "description_style": "body",
+        "text_alignment": "center",
+        "auto_slide_interval": 5,
+        "show_arrows": false,
+        "show_dots": true,
+        "photo_size": 80,
+        "photo_shape": "circle",
+        "show_photo_border": true,
+        "photo_border_color": "#e5e5e5",
+        "photo_border_width": 2,
+        "padding_top": 80,
+        "padding_bottom": 20
+      }
+    },
+    "collapsible_content_7dkKhN": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_KWmpzw": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long of a length of exhaust tubing can I run?",
+            "icon": "none",
+            "row_content": "<p>In most typical applications, 3\/4″ tubing can be run 5′ or less, 1″ tubing can be run 8′ or less, and 1-1\/2″ tubing can be run up to 12 feet; all these can vary depending on the stock exhaust port inside diameter.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_TzhCGc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How hot does the exhaust tube\/pipe get?",
+            "icon": "none",
+            "row_content": "<p>There is a large variance in temperatures from one brand to another, but the first 18-24 inches will get the hottest – especially is there is a bend in that section of the run. It is always wise to insulate the tube\/pipe with automotive header wrap or heat resistant insulation if coming in contact with a combustible material.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_xJCdPF": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is it hard to weld the fittings to the muffler since the muffler has a thin wall?",
+            "icon": "none",
+            "row_content": "<p>It is a fairly easy task for an accomplished welder. All weld on fittings are chamfered in order to clear any existing weld bead on the muffler and to reduce the amount of heat required to get a good weld. Typically MIG or TIG is the best weld for these.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_XhPN3T": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Why should I remove the muffler before welding the fitting?",
+            "icon": "none",
+            "row_content": "<p>The muffler should be removed to avoid the chance of damage to the generator’s electrical system.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_nPGJCb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does this exhaust set-up allow me to run this in my living area?",
+            "icon": "none",
+            "row_content": "<p>NO! A running engine should never be in a living area. CO sensors should be used if this is being used in an attached building, like a garage.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_rEcnG3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I see that there are two types of magnetic dipsticks; anodized and non-anodized. Why should I consider anodized parts over non-anodized?",
+            "icon": "none",
+            "row_content": "<p>Anodization increases lubricity and creates a non-galling surface that reduces the chance of seizing.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_KWmpzw",
+        "collapsible_row_TzhCGc",
+        "collapsible_row_xJCdPF",
+        "collapsible_row_XhPN3T",
+        "collapsible_row_nPGJCb",
+        "collapsible_row_rEcnG3"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "container_color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
     "image_banner_4KXkaG": {
       "type": "image-banner",
       "blocks": {
@@ -286,8 +416,8 @@
         "text_zNXfe7": {
           "type": "text",
           "settings": {
-            "text": "American made parts with American made materials on American made machins by American craftsmen",
-            "text_style": "body"
+            "text": "American made parts with American made materials on American made machines by American craftsmen",
+            "text_style": "caption-with-letter-spacing"
           }
         }
       },
@@ -297,7 +427,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/04_small_2.png",
+        "image": "shopify:\/\/shop_images\/04_small_2.png",
         "image_overlay_opacity": 30,
         "image_height": "small",
         "image_behavior": "none",
@@ -307,17 +437,19 @@
         "color_scheme": "scheme-0222a42b-4aae-4171-b056-7a1ae7529273",
         "stack_images_on_mobile": true,
         "mobile_content_alignment": "center",
-        "show_text_below": true
+        "show_text_below": false
       }
     }
   },
   "order": [
     "image_banner",
     "multicolumn_zbh7V7",
-    "image_banner_qCYAyA",
     "featured_collection",
-    "image_banner_mtd3TT",
+    "image_banner_qCYAyA",
     "collection_list_tNQg7h",
+    "image_banner_mtd3TT",
+    "testimonials_4YtzJj",
+    "collapsible_content_7dkKhN",
     "image_banner_4KXkaG"
   ]
 }

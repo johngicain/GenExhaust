@@ -1,0 +1,258 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_tzrcrP": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_BbMEPh": {
+          "type": "heading",
+          "settings": {
+            "heading": "ABOUT US",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_BbMEPh"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/05_collection.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "small",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-4",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "left",
+        "show_text_below": false
+      }
+    },
+    "image_with_text_hpiMBD": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_EWQjQn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>1100 North Innovations, LLC is an independently owned business started by an engineer and tool maker who enjoys developing products that make life easier.<\/p><p>The business started with an effort to exhaust a portable generator from an out building at a campsite. The owner wanted to have a more permanent set-up out of the weather while maintaining safety. The result sparked design refinement and an eventual listing on eBay. Since day one, the goal has been to provide the highest quality product at a fair price.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_EWQjQn"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Exhaust_Transitions___Vents.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 60
+      }
+    },
+    "rich_text_PP7WMF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FEwP9L": {
+          "type": "heading",
+          "settings": {
+            "heading": "What Makes Us Different",
+            "heading_size": "h1"
+          }
+        },
+        "text_RLetz6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At GenExhaust, we believe that reliability begins with precision. Every product we offer - from our custom-fit exhaust extensions to our maintenance accessories - is built with an emphasis on safety, durability, and ease of installation. Whether you're powering a job site, preparing for emergencies, or venting a generator from your RV or outbuilding, we make sure our solutions help you run with confidence.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FEwP9L",
+        "text_RLetz6"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 80
+      }
+    },
+    "multicolumn_bBdacy": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ymVqMV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iconmonstr-star-6.svg",
+            "title": "Proudly Made in the USA",
+            "text": "<p>All of our products are proudly manufactured in the United States using high-grade materials and proven machining techniques. As a small business, we take pride in supporting local jobs and maintaining a hands-on approach in everything we create. It’s not just about selling a product - it’s about delivering dependable solutions our customers can count on.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ymVqMV"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "sixth",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "block_layout": "column",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_Yimice": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_9RxKmg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iconmonstr-award-17.svg",
+            "title": "Trusted by DIYers and Professionals Alike",
+            "text": "<p>Our customers range from homeowners and campers to contractors and first responders. We’re honored to support people who rely on portable power in critical situations, and we’re committed to making exhaust routing safer and simpler for everyone.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_9RxKmg"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "sixth",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "block_layout": "column",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_tUCjiP": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_T3Mx79": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iconmonstr-megaphone-10.svg",
+            "title": "Built on Feedback, Backed by Support",
+            "text": "<p>As the business has grown, so has our connection with customers. Many of our product refinements have come directly from user suggestions. We listen, we adjust, and we continue to innovate - because we know the best ideas often come from the field.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_T3Mx79"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "sixth",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "block_layout": "column",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 80
+      }
+    },
+    "image_banner_4wXdJh": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_KyjQMb": {
+          "type": "heading",
+          "settings": {
+            "heading": "PROUDLY MADE IN THE USA",
+            "heading_size": "h0"
+          }
+        },
+        "text_p9Dt33": {
+          "type": "text",
+          "settings": {
+            "text": "American made parts with American made materials on American made machines by American craftsmen",
+            "text_style": "caption-with-letter-spacing"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KyjQMb",
+        "text_p9Dt33"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/04_small_2.png",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-0222a42b-4aae-4171-b056-7a1ae7529273",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_tzrcrP",
+    "image_with_text_hpiMBD",
+    "rich_text_PP7WMF",
+    "multicolumn_bBdacy",
+    "multicolumn_Yimice",
+    "multicolumn_tUCjiP",
+    "image_banner_4wXdJh"
+  ]
+}

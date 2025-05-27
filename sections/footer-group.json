@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -17,9 +8,9 @@
         "image_kT3Myg": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/GenExhaust_-_GE_Logo_White.png",
+            "image": "shopify:\/\/shop_images\/GenExhaust_-_GE_Logo_White.png",
             "image_width": 150,
-            "text": "<p>Genexhaust.com and 1100 North Innovations, LLC are not affiliated in any way with any generator manufacturer. Any company or product trademarks, service marks, trade names, and/or product names or pictures appearing on this site are the property of their respective owners.</p>",
+            "text": "<p>Genexhaust.com and 1100 North Innovations, LLC are not affiliated in any way with any generator manufacturer. Any company or product trademarks, service marks, trade names, and\/or product names or pictures appearing on this site are the property of their respective owners.<\/p>",
             "alignment": ""
           }
         },

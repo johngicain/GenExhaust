@@ -220,6 +220,11 @@
   display: none !important;
 }
 
+.collapsible-content .accordion summary .icon-caret {
+  width: auto;
+  height: 0.9rem;
+}
+
 .footer-block .footer-block__details-content .list-menu__item {
   font-size: 1.4rem;
   font-weight: 100;

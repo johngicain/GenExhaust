@@ -1,0 +1,462 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown",
+            "swatch_shape": "circle"
+          }
+        },
+        "infinite_options_app_block_FDmE3J": {
+          "type": "shopify://apps/infinite-options/blocks/app-block/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
+          "settings": {}
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "variant_picker",
+        "infinite_options_app_block_FDmE3J",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-1",
+        "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "stacked",
+        "mobile_thumbnails": "hide",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "multicolumn_YiaM3y": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_GfyJjx": {
+          "type": "column",
+          "settings": {
+            "title": "Reduces Heat Transfer",
+            "text": "<p>Double shielding protects surrounding surfaces</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_mJVUbt": {
+          "type": "column",
+          "settings": {
+            "title": "Improves Ventilation Safety",
+            "text": "<p>Directs fumes outside your space</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JyJqTB": {
+          "type": "column",
+          "settings": {
+            "title": "Durable Construction",
+            "text": "<p>Built to handle high exhaust temperatures</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_jALRzn": {
+          "type": "column",
+          "settings": {
+            "title": "Flexible Setup Options",
+            "text": "<p>Multiple lengths/configurations available</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_GfyJjx",
+        "column_mJVUbt",
+        "column_JyJqTB",
+        "column_jALRzn"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Designed for Safe & Reliable Operation",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "block_layout": "column",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "scheme-4",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 24
+      }
+    },
+    "image_with_text_AHC3DW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_bfj3MA": {
+          "type": "heading",
+          "settings": {
+            "heading": "Built with Double Shield Protection",
+            "heading_size": "h1"
+          }
+        },
+        "text_V4Utk4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Each through-wall kit is constructed with <strong>two layers of metal separated by an air</strong> gap to help minimize heat exposure. This added insulation makes it safer for routing exhaust through walls. </p><p><strong>Please note:</strong> This product includes the through-wall kit only.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bfj3MA",
+        "text_V4Utk4"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/GE-24_Blue_Website_Square_with_fines.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-0222a42b-4aae-4171-b056-7a1ae7529273",
+        "color_scheme": "scheme-0222a42b-4aae-4171-b056-7a1ae7529273",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_PfMHPF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FQjJnb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Choose the Right Exhaust Setup",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FQjJnb"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 20
+      }
+    },
+    "1775277707e364f7e2": {
+      "type": "apps",
+      "blocks": {
+        "table_master_app_block_LbFr3j": {
+          "type": "shopify://apps/table-master/blocks/app-block/b1b6109b-b32d-4af9-baf2-a4b178dabc04",
+          "settings": {
+            "embed_table_id": "OaL1Ky7d7M"
+          }
+        }
+      },
+      "block_order": [
+        "table_master_app_block_LbFr3j"
+      ],
+      "name": "App: Table Master",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "rich_text_rPFdhm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_w3cKnH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Need the GenPole Exhaust System?",
+            "heading_size": "h2"
+          }
+        },
+        "text_EgVw9P": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A portable, vertical solution for routing exhaust away from people when wall venting isn’t required.</p>"
+          }
+        },
+        "button_KFXbkE": {
+          "type": "button",
+          "settings": {
+            "button_label": "Visit Product",
+            "button_link": "shopify://products/genpole-exhaust-tubing",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_w3cKnH",
+        "text_EgVw9P",
+        "button_KFXbkE"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_nAabUr": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_GL6cxB": {
+          "type": "heading",
+          "settings": {
+            "heading": "Set Up Safe Exhaust Venting",
+            "heading_size": "h1"
+          }
+        },
+        "text_aHErch": {
+          "type": "text",
+          "settings": {
+            "text": "Set up your exhaust system with safety and confidence using a properly designed through-wall solution. This kit helps direct harmful exhaust gases away from your space while reducing heat exposure at critical points. For optimal performance and safety, always ensure proper ventilation, follow installation guidelines carefully, and maintain safe clearance from flammable materials.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GL6cxB",
+        "text_aHErch"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/05_collection.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "small",
+        "image_behavior": "ambient",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "multicolumn_kP6req": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_E9yEYG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/mag-oil-ds-logo1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_n366QC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/mag-oil-ds-logo2.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MgmWEy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/mag-oil-ds-logo1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_E9yEYG",
+        "column_n366QC",
+        "column_MgmWEy"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Trusted Compatibility Across Top Generator Brands",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "block_layout": "column",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "You may also need",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "collapsible_content_BLEVw4": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_nWJfKL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can this be used with any generator?",
+            "icon": "none",
+            "row_content": "<p>Compatibility depends on the diameter and length.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_FDhFP8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Why is double shielding important?",
+            "icon": "none",
+            "row_content": "<p>It reduces heat transfer and improves safety when passing through walls.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_qKTdXB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I install this myself?",
+            "icon": "none",
+            "row_content": "<p>Basic setups are possible, but proper installation is critical for safety.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_nWJfKL",
+        "collapsible_row_FDhFP8",
+        "collapsible_row_qKTdXB"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "container_color_scheme": "scheme-1",
+        "color_scheme": "scheme-e692a52b-4ef0-48a8-8093-b8ae661c78b0",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn_YiaM3y",
+    "image_with_text_AHC3DW",
+    "rich_text_PfMHPF",
+    "1775277707e364f7e2",
+    "rich_text_rPFdhm",
+    "image_banner_nAabUr",
+    "multicolumn_kP6req",
+    "related-products",
+    "collapsible_content_BLEVw4"
+  ]
+}

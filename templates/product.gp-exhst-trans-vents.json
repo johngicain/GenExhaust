@@ -95,8 +95,8 @@
         "column_GfyJjx": {
           "type": "column",
           "settings": {
-            "title": "Reduces Heat Transfer",
-            "text": "<p>Double shielding protects surrounding surfaces</p>",
+            "title": "Elevates Exhaust Safely",
+            "text": "<p>Directs fumes above head level for better dispersion</p>",
             "link_label": "",
             "link": ""
           }
@@ -104,8 +104,8 @@
         "column_mJVUbt": {
           "type": "column",
           "settings": {
-            "title": "Improves Ventilation Safety",
-            "text": "<p>Directs fumes outside your space</p>",
+            "title": "Improves Airflow Direction",
+            "text": "<p>Moves exhaust away from people and work areas</p>",
             "link_label": "",
             "link": ""
           }
@@ -113,8 +113,8 @@
         "column_JyJqTB": {
           "type": "column",
           "settings": {
-            "title": "Durable Construction",
-            "text": "<p>Built to handle high exhaust temperatures</p>",
+            "title": "Portable",
+            "text": "<p>Wheel base design allows easy movement and setup</p>",
             "link_label": "",
             "link": ""
           }
@@ -122,8 +122,8 @@
         "column_jALRzn": {
           "type": "column",
           "settings": {
-            "title": "Flexible Setup Options",
-            "text": "<p>Multiple lengths/configurations available</p>",
+            "title": "No Structural Installation Required",
+            "text": "<p>No drilling or wall modification needed</p>",
             "link_label": "",
             "link": ""
           }
@@ -137,7 +137,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Designed for Safe & Reliable Operation",
+        "title": "Designed for Safe & Flexible Exhaust Control",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -160,14 +160,14 @@
         "heading_bfj3MA": {
           "type": "heading",
           "settings": {
-            "heading": "Built with Double Shield Protection",
+            "heading": "Perfect for Outdoor Generator Setups",
             "heading_size": "h1"
           }
         },
         "text_V4Utk4": {
           "type": "text",
           "settings": {
-            "text": "<p>Each through-wall kit is constructed with <strong>two layers of metal separated by an air</strong> gap to help minimize heat exposure. This added insulation makes it safer for routing exhaust through walls. </p><p><strong>Please note:</strong> This product includes the through-wall kit only.</p>",
+            "text": "<ul><li>Open outdoor environments<br/></li><li>Job sites and temporary setups<br/></li><li>Residential backup power<br/></li><li>Situations where wall venting isn’t possible</li></ul><p>By elevating exhaust safely above ground level, it helps create a more comfortable and controlled space—especially in situations where routing exhaust through a wall isn’t practical or possible.</p>",
             "text_style": "body"
           }
         }
@@ -241,21 +241,21 @@
         "heading_w3cKnH": {
           "type": "heading",
           "settings": {
-            "heading": "Need the GenPole Exhaust System?",
+            "heading": "Need the Double Shield Through Wall Exhaust Tubing?",
             "heading_size": "h2"
           }
         },
         "text_EgVw9P": {
           "type": "text",
           "settings": {
-            "text": "<p>A portable, vertical solution for routing exhaust away from people when wall venting isn’t required.</p>"
+            "text": "<p>Choose the Double Shield Through Wall Exhaust Tubing if you need a fixed solution for venting exhaust through walls with added heat protection.</p>"
           }
         },
         "button_KFXbkE": {
           "type": "button",
           "settings": {
             "button_label": "Visit Product",
-            "button_link": "shopify://products/genpole-exhaust-tubing",
+            "button_link": "shopify://products/double-shield-through-wall-exhaust-tubing",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -291,7 +291,7 @@
         "text_aHErch": {
           "type": "text",
           "settings": {
-            "text": "Set up your exhaust system with safety and confidence using a properly designed through-wall solution. This kit helps direct harmful exhaust gases away from your space while reducing heat exposure at critical points. For optimal performance and safety, always ensure proper ventilation, follow installation guidelines carefully, and maintain safe clearance from flammable materials.",
+            "text": "Always use the system in well-ventilated outdoor areas to ensure safe operation. Keep exhaust directed away from people, buildings, and openings, and make sure the unit is placed on a stable surface before starting your generator.",
             "text_style": "body"
           }
         }
@@ -397,18 +397,18 @@
         "collapsible_row_nWJfKL": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can this be used with any generator?",
+            "heading": "Can this be used indoors?",
             "icon": "none",
-            "row_content": "<p>Compatibility depends on the diameter and length.</p>",
+            "row_content": "<p>No — designed for outdoor use only.</p>",
             "page": ""
           }
         },
         "collapsible_row_FDhFP8": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Why is double shielding important?",
+            "heading": "Does this require permanent installation?",
             "icon": "none",
-            "row_content": "<p>It reduces heat transfer and improves safety when passing through walls.</p>",
+            "row_content": "<p>No — it’s fully portable.</p>",
             "page": ""
           }
         },

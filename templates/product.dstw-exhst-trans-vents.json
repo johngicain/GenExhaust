@@ -95,8 +95,8 @@
         "column_GfyJjx": {
           "type": "column",
           "settings": {
-            "title": "Reduces Engine Wear",
-            "text": "<p>Captures harmful debris before it circulates</p>",
+            "title": "Reduces Heat Transfer",
+            "text": "<p>Double shielding protects surrounding surfaces</p>",
             "link_label": "",
             "link": ""
           }
@@ -104,8 +104,8 @@
         "column_mJVUbt": {
           "type": "column",
           "settings": {
-            "title": "Improves Engine Lifespan",
-            "text": "<p>Minimizes internal friction and damage</p>",
+            "title": "Improves Ventilation Safety",
+            "text": "<p>Directs fumes outside your space</p>",
             "link_label": "",
             "link": ""
           }
@@ -113,8 +113,8 @@
         "column_JyJqTB": {
           "type": "column",
           "settings": {
-            "title": "Low Maintenance",
-            "text": "<p>Easy to remove and clean</p>",
+            "title": "Durable Construction",
+            "text": "<p>Built to handle high exhaust temperatures</p>",
             "link_label": "",
             "link": ""
           }
@@ -122,8 +122,8 @@
         "column_jALRzn": {
           "type": "column",
           "settings": {
-            "title": "Durable Construction",
-            "text": "<p>Made from high-quality aluminum</p>",
+            "title": "Flexible Setup Options",
+            "text": "<p>Multiple lengths/configurations available</p>",
             "link_label": "",
             "link": ""
           }
@@ -137,7 +137,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Built for Performance and Longevity",
+        "title": "Designed for Safe & Reliable Operation",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -160,14 +160,14 @@
         "heading_bfj3MA": {
           "type": "heading",
           "settings": {
-            "heading": "Designed for Long-Term Engine Health",
+            "heading": "Built with Double Shield Protection",
             "heading_size": "h1"
           }
         },
         "text_V4Utk4": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Reduces Wear & Tear<br/></li><li>Improves Oil Cleanliness<br/></li><li>Extends Engine Life<br/></li><li>Easy Maintenance<br/></li><li>Direct Replacement Fit</li></ul><p>The Magnetic Oil Dipstick helps protect your engine by capturing fine metal debris before it circulates in the oil. This supports cleaner operation, reduces internal wear, and improves long-term reliability—all with a precise fit and easy maintenance.</p>",
+            "text": "<p>Each through-wall kit is constructed with <strong>two layers of metal separated by an air</strong> gap to help minimize heat exposure. This added insulation makes it safer for routing exhaust through walls. </p><p><strong>Please note:</strong> This product includes the through-wall kit only.</p>",
             "text_style": "body"
           }
         }
@@ -214,6 +214,7 @@
         "heading_FQjJnb",
         "text_VJNEqk"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -237,6 +238,7 @@
       "block_order": [
         "table_master_app_block_LbFr3j"
       ],
+      "disabled": true,
       "name": "App: Table Master",
       "settings": {
         "include_margins": true
@@ -248,8 +250,8 @@
         "column_nPLe3W": {
           "type": "column",
           "settings": {
-            "title": "Non-Anodized",
-            "text": "<ul><li>Standard aluminum construction<br/></li><li>Reliable for general use</li></ul>",
+            "title": "Longer Length",
+            "text": "<p>Ideal for thicker exterior walls up to 8”</p>",
             "link_label": "",
             "link": ""
           }
@@ -257,8 +259,8 @@
         "column_ChfYd7": {
           "type": "column",
           "settings": {
-            "title": "Anodized",
-            "text": "<ul><li>Coated to prevent seizing in engine block<br/></li><li>Ideal for marine, humid, or harsh environments<br/></li><li>Increased durability over time</li></ul>",
+            "title": "Shorter Length",
+            "text": "<p>Best for single-layer walls up to 4” (e.g., plastic sheds)</p>",
             "link_label": "",
             "link": ""
           }
@@ -270,7 +272,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Choose the Right Dipstick Type",
+        "title": "Choose the Right Kit Length for Your Wall",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -293,14 +295,14 @@
         "heading_GL6cxB": {
           "type": "heading",
           "settings": {
-            "heading": "Engineered for Reliability",
+            "heading": "Set Up Safe Exhaust Venting",
             "heading_size": "h1"
           }
         },
         "text_aHErch": {
           "type": "text",
           "settings": {
-            "text": "Each dipstick is crafted from high-grade aluminum and fitted with a strong magnetic tip designed to withstand continuous engine operation. The anodized option undergoes an additional coating process to enhance corrosion resistance and prevent seizing.",
+            "text": "Set up your exhaust system with safety and confidence using a properly designed through-wall solution. This kit helps direct harmful exhaust gases away from your space while reducing heat exposure at critical points. For optimal performance and safety, always ensure proper ventilation, follow installation guidelines carefully, and maintain safe clearance from flammable materials.",
             "text_style": "body"
           }
         }
@@ -406,27 +408,27 @@
         "collapsible_row_nWJfKL": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How often should I clean the dipstick?",
+            "heading": "Can this be used with any generator?",
             "icon": "none",
-            "row_content": "<p>During regular oil checks or maintenance intervals.</p>",
+            "row_content": "<p>Compatibility depends on the diameter and length.</p>",
             "page": ""
           }
         },
         "collapsible_row_FDhFP8": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Will this affect oil levels or readings?",
+            "heading": "Why is double shielding important?",
             "icon": "none",
-            "row_content": "<p>No, it functions like a standard dipstick while adding magnetic protection.</p>",
+            "row_content": "<p>It reduces heat transfer and improves safety when passing through walls.</p>",
             "page": ""
           }
         },
         "collapsible_row_qKTdXB": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Do I need the anodized version?",
+            "heading": "Can I install this myself?",
             "icon": "none",
-            "row_content": "<p>Recommended for humid or salt-heavy environments to prevent seizing.</p>",
+            "row_content": "<p>Basic setups are possible, but proper installation is critical for safety.</p>",
             "page": ""
           }
         }

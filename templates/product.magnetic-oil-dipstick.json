@@ -160,14 +160,14 @@
         "heading_bfj3MA": {
           "type": "heading",
           "settings": {
-            "heading": "Built for Performance and Longevity",
+            "heading": "Designed for Long-Term Engine Health",
             "heading_size": "h1"
           }
         },
         "text_V4Utk4": {
           "type": "text",
           "settings": {
-            "text": "<ul><li><strong>Reduces Engine Wear</strong> – Captures harmful debris before it circulates</li><li><strong>Improves Engine Lifespan</strong> – Minimizes internal friction and damage</li><li><strong>Low Maintenance</strong> – Easy to remove and clean</li><li><strong>Precision Fit</strong> – Designed specifically for compatible Champion models</li><li><strong>Durable Construction</strong> – Made from high-quality aluminum</li></ul>",
+            "text": "<ul><li>Reduces Wear & Tear<br/></li><li>Improves Oil Cleanliness<br/></li><li>Extends Engine Life<br/></li><li>Easy Maintenance<br/></li><li>Direct Replacement Fit</li></ul><p>The Magnetic Oil Dipstick helps protect your engine by capturing fine metal debris before it circulates in the oil. This supports cleaner operation, reduces internal wear, and improves long-term reliability—all with a precise fit and easy maintenance.</p>",
             "text_style": "body"
           }
         }
@@ -184,7 +184,7 @@
         "layout": "text_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "scheme-0222a42b-4aae-4171-b056-7a1ae7529273",
@@ -399,6 +399,61 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "collapsible_content_BLEVw4": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_nWJfKL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How often should I clean the dipstick?",
+            "icon": "none",
+            "row_content": "<p>During regular oil checks or maintenance intervals.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_FDhFP8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will this affect oil levels or readings?",
+            "icon": "none",
+            "row_content": "<p>No, it functions like a standard dipstick while adding magnetic protection.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_qKTdXB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do I need the anodized version?",
+            "icon": "none",
+            "row_content": "<p>Recommended for humid or salt-heavy environments to prevent seizing.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_nWJfKL",
+        "collapsible_row_FDhFP8",
+        "collapsible_row_qKTdXB"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "container_color_scheme": "scheme-1",
+        "color_scheme": "scheme-e692a52b-4ef0-48a8-8093-b8ae661c78b0",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false
+      }
     }
   },
   "order": [
@@ -410,6 +465,7 @@
     "multicolumn_rgRBh3",
     "image_banner_nAabUr",
     "multicolumn_kP6req",
-    "related-products"
+    "related-products",
+    "collapsible_content_BLEVw4"
   ]
 }

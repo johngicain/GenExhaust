@@ -199,22 +199,14 @@
         "heading_FQjJnb": {
           "type": "heading",
           "settings": {
-            "heading": "Check If This Fits Your Generator",
+            "heading": "Choose the Right Exhaust Setup",
             "heading_size": "h1"
-          }
-        },
-        "text_VJNEqk": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Use the compatibility table below to confirm fitment</p>"
           }
         }
       },
       "block_order": [
-        "heading_FQjJnb",
-        "text_VJNEqk"
+        "heading_FQjJnb"
       ],
-      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -231,62 +223,59 @@
         "table_master_app_block_LbFr3j": {
           "type": "shopify://apps/table-master/blocks/app-block/b1b6109b-b32d-4af9-baf2-a4b178dabc04",
           "settings": {
-            "embed_table_id": "rZLzJrJLA8"
+            "embed_table_id": "OaL1Ky7d7M"
           }
         }
       },
       "block_order": [
         "table_master_app_block_LbFr3j"
       ],
-      "disabled": true,
       "name": "App: Table Master",
       "settings": {
         "include_margins": true
       }
     },
-    "multicolumn_rgRBh3": {
-      "type": "multicolumn",
+    "rich_text_rPFdhm": {
+      "type": "rich-text",
       "blocks": {
-        "column_nPLe3W": {
-          "type": "column",
+        "heading_w3cKnH": {
+          "type": "heading",
           "settings": {
-            "title": "Longer Length",
-            "text": "<p>Ideal for thicker exterior walls up to 8”</p>",
-            "link_label": "",
-            "link": ""
+            "heading": "Need the GenPole Exhaust System?",
+            "heading_size": "h2"
           }
         },
-        "column_ChfYd7": {
-          "type": "column",
+        "text_EgVw9P": {
+          "type": "text",
           "settings": {
-            "title": "Shorter Length",
-            "text": "<p>Best for single-layer walls up to 4” (e.g., plastic sheds)</p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>A portable, vertical solution for routing exhaust away from people when wall venting isn’t required.</p>"
+          }
+        },
+        "button_KFXbkE": {
+          "type": "button",
+          "settings": {
+            "button_label": "Visit Product",
+            "button_link": "shopify://products/genpole-exhaust-tubing",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "column_nPLe3W",
-        "column_ChfYd7"
+        "heading_w3cKnH",
+        "text_EgVw9P",
+        "button_KFXbkE"
       ],
-      "name": "t:sections.multicolumn.presets.name",
+      "name": "t:sections.rich-text.presets.name",
       "settings": {
-        "title": "Choose the Right Kit Length for Your Wall",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
-        "block_layout": "column",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "image_banner_nAabUr": {
@@ -464,7 +453,7 @@
     "image_with_text_AHC3DW",
     "rich_text_PfMHPF",
     "1775277707e364f7e2",
-    "multicolumn_rgRBh3",
+    "rich_text_rPFdhm",
     "image_banner_nAabUr",
     "multicolumn_kP6req",
     "related-products",

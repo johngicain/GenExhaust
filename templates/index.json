@@ -126,6 +126,47 @@
         "padding_bottom": 20
       }
     },
+    "collection_list_tNQg7h": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_3EMYir": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "oil-accessories"
+          }
+        },
+        "featured_collection_yLaCnA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "exhaust-extensions"
+          }
+        },
+        "featured_collection_EHC8zN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "exhaust-transitions-vents"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_3EMYir",
+        "featured_collection_yLaCnA",
+        "featured_collection_EHC8zN"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "CATEGORIES",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -201,47 +242,6 @@
         "stack_images_on_mobile": true,
         "mobile_content_alignment": "center",
         "show_text_below": false
-      }
-    },
-    "collection_list_tNQg7h": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_3EMYir": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "oil-accessories"
-          }
-        },
-        "featured_collection_yLaCnA": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "exhaust-extensions"
-          }
-        },
-        "featured_collection_EHC8zN": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "exhaust-transitions-vents"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_3EMYir",
-        "featured_collection_yLaCnA",
-        "featured_collection_EHC8zN"
-      ],
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "CATEGORIES",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 80,
-        "padding_bottom": 80
       }
     },
     "image_banner_mtd3TT": {
@@ -456,9 +456,9 @@
   "order": [
     "image_banner",
     "multicolumn_zbh7V7",
-    "featured_collection",
-    "image_banner_qCYAyA",
     "collection_list_tNQg7h",
+    "image_banner_qCYAyA",
+    "featured_collection",
     "image_banner_mtd3TT",
     "testimonials_4YtzJj",
     "collapsible_content_7dkKhN",

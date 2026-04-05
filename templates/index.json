@@ -115,7 +115,7 @@
         "image_ratio": "adapt",
         "button_label": "",
         "button_link": "",
-        "block_layout": "row",
+        "block_layout": "column",
         "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "primary",

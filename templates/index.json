@@ -73,7 +73,7 @@
         "column_fbARUf": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/icon-wrench-white.svg",
+            "image": "shopify://shop_images/icon-clock-quick-white.svg",
             "title": "",
             "text": "<p><strong>Easy Installation Options</strong></p>",
             "link_label": "",
@@ -93,9 +93,9 @@
         "column_MTgfFB": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/icon-clock-quick-white.svg",
+            "image": "shopify://shop_images/icon-wrench-white.svg",
             "title": "",
-            "text": "<p><strong>Quick Disconnect & Maintenance Accessories</strong></p>",
+            "text": "<p><strong>Designed & Manufactured in the USA</strong></p>",
             "link_label": "",
             "link": ""
           }

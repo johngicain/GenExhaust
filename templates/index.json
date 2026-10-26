@@ -129,12 +129,6 @@
     "collection_list_tNQg7h": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_3EMYir": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "oil-accessories"
-          }
-        },
         "featured_collection_yLaCnA": {
           "type": "featured_collection",
           "settings": {
@@ -149,7 +143,6 @@
         }
       },
       "block_order": [
-        "featured_collection_3EMYir",
         "featured_collection_yLaCnA",
         "featured_collection_EHC8zN"
       ],

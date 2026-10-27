@@ -27,8 +27,9 @@
         },
         "featured_collection_UdfXaT": {
           "type": "featured_collection",
+          "name": "Honda",
           "settings": {
-            "collection": ""
+            "collection": "honda"
           }
         },
         "featured_collection_m7TCAg": {
